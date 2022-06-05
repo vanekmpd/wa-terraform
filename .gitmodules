@@ -1,0 +1,4 @@
+[submodule "terraform-module-gitlab"]
+	path = terraform-module-gitlab
+	url = https://github.com/stakater/terraform-module-gitlab.git
+	branch = master
